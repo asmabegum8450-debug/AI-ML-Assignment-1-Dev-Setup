@@ -8,4 +8,3 @@ This repo contains my environment setup and starter files.
 ```bash
 python -m venv .venv
 source .venv/bin/activate
-
